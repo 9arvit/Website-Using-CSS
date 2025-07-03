@@ -7,7 +7,6 @@ This is a simple and responsive static website built using only HTML and CSS. It
 - Fully responsive layout
 - Clean and structured HTML5
 - Modern CSS styling with Flexbox/Grid
-- Simple navigation bar
 - Sectioned content for easy readability
 
 ## 📁 Project Structure
